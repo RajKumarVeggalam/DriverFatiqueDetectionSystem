@@ -3,7 +3,7 @@ Driver Fatigue Detection System 😴
 Just wrapped up an exciting endeavor: a Driver Fatigue Detection System crafted with Python, OpenCV, and Dlib! This intelligent system scrutinizes a driver's facial features to identify indicators of drowsiness and fatigue, aiming to enhance road safety measures.
 
 👨‍💻 Project Highlights
-Leveraging Dlib's 68-point facial landmark detector, this system diligently observes crucial eye landmarks. By analyzing these points, it can ascertain if the driver is exhibiting signs of drowsiness. Upon detecting fatigue, the system issues warnings on three separate occasions before subsequently activating the hazard lights and initiating vehicle deceleration. This proactive approach is designed to protect the well-being of both passengers and the driver, effectively mitigating the risk of accidents.
+Leveraging Dlib's 68-point facial landmark detector, this system diligently observes crucial eye landmarks. By analyzing these points, it can ascertain if the driver is exhibiting signs of drowsiness. Upon detecting fatigue, the system issues warnings on two separate occasions before subsequently activating the hazard lights and initiating vehicle deceleration. This proactive approach is designed to protect the well-being of both passengers and the driver, effectively mitigating the risk of accidents.
 
 
 ⚙️ Operational Flow
